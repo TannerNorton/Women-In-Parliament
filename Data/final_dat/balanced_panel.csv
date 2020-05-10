@@ -1,0 +1,82 @@
+Country Name,Country Code,Year,women_parliament,arms_imports,tax_gdp,military_population,mil_spending,Region,IncomeGroup,system,gov1rlc,log_arms,Center,Left,Right
+Ireland,IRL,2002,13.3,22000000,23.5231751,0.538165409,1.909995347,Europe & Central Asia,High income,Parliamentary,Center,16.90655301,1,0,0
+"Korea, Rep.",KOR,2002,5.9,528000000,13.64515711,2.921075089,13.65655564,East Asia & Pacific,High income,Presidential,Center,20.08460684,1,0,0
+Peru,PER,2002,17.5,16000000,12.48714263,1.42780179,7.919371278,Latin America & Caribbean,Upper middle income,Presidential,Center,16.58809928,1,0,0
+Philippines,PHL,2002,17.8,5000000,12.09116828,0.477819888,6.918755856,East Asia & Pacific,Lower middle income,Presidential,Center,15.42494847,1,0,0
+Finland,FIN,2006,38,136000000,21.42026756,1.202502106,2.988710315,Europe & Central Asia,High income,Parliamentary,Center,18.72816544,1,0,0
+Ireland,IRL,2006,13.3,13000000,26.80739475,0.446014614,1.515475772,Europe & Central Asia,High income,Parliamentary,Center,16.38045992,1,0,0
+"Korea, Rep.",KOR,2006,13.4,1651000000,14.28949254,2.822085379,12.28354713,East Asia & Pacific,High income,Presidential,Center,21.224647,1,0,0
+Peru,PER,2006,29.2,193000000,15.6699876,1.362260874,7.704450329,Latin America & Caribbean,Upper middle income,Presidential,Center,19.07820075,1,0,0
+Philippines,PHL,2006,15.3,23000000,13.71187088,0.425292855,6.886946066,East Asia & Pacific,Lower middle income,Presidential,Center,16.95100477,1,0,0
+Chile,CHL,2012,14.2,62000000,18.99486687,1.253263387,8.861280029,Latin America & Caribbean,High income,Presidential,Center,17.94264494,1,0,0
+Philippines,PHL,2012,22.9,16000000,12.88795126,0.408664911,6.127201193,East Asia & Pacific,Lower middle income,Presidential,Center,16.58809928,1,0,0
+Canada,CAN,2002,20.6,436000000,13.42525802,0.363584101,2.764948287,North America,High income,Parliamentary,Left,19.8931528,0,1,0
+Chile,CHL,2002,12.5,74000000,16.20169514,1.829113404,10.91109416,Latin America & Caribbean,High income,Presidential,Left,18.11957565,0,1,0
+Germany,DEU,2002,32.2,71000000,10.8367605,0.731646535,2.984868799,Europe & Central Asia,High income,Parliamentary,Left,18.07819044,0,1,0
+Finland,FIN,2002,36.5,12000000,22.46689924,1.330315411,2.430583158,Europe & Central Asia,High income,Parliamentary,Left,16.30041721,0,1,0
+France,FRA,2002,12.1,43000000,22.66956958,1.298859911,4.614219253,Europe & Central Asia,High income,Parliamentary,Left,17.57671067,0,1,0
+United Kingdom,GBR,2002,17.9,720000000,24.78966505,0.711073692,6.291443869,Europe & Central Asia,High income,Parliamentary,Left,20.39476177,0,1,0
+Greece,GRC,2002,8.7,400000000,21.26687719,3.712577788,6.719609939,Europe & Central Asia,High income,Parliamentary,Left,19.80697511,0,1,0
+Namibia,NAM,2002,25,11000000,26.6468982,2.417565061,8.702383186,Sub-Saharan Africa,Upper middle income,Presidential,Left,16.21340583,0,1,0
+Netherlands,NLD,2002,34,244000000,21.15808651,0.626553355,3.333892946,Europe & Central Asia,High income,Parliamentary,Left,19.31267878,0,1,0
+New Zealand,NZL,2002,29.2,17000000,28.20805365,0.429022854,3.807199512,East Asia & Pacific,High income,Parliamentary,Left,16.6487239,0,1,0
+Sweden,SWE,2002,45,75000000,26.70997303,1.51797965,3.113828303,Europe & Central Asia,High income,Parliamentary,Left,18.13299867,0,1,0
+Argentina,ARG,2006,35,9000000,12.8788867,0.599007651,2.96145853,Latin America & Caribbean,Upper middle income,Presidential,Left,16.01273514,0,1,0
+Brazil,BRA,2006,8.8,179000000,15.38131159,0.829659249,3.777767427,Latin America & Caribbean,Upper middle income,Presidential,Left,19.00289636,0,1,0
+Canada,CAN,2006,20.8,104000000,13.38728474,0.357333349,2.903522128,North America,High income,Parliamentary,Left,18.45990146,0,1,0
+Chile,CHL,2006,15,1095000000,19.49190685,1.425529377,13.37993141,Latin America & Caribbean,High income,Presidential,Left,20.8140202,0,1,0
+Spain,ESP,2006,36,315000000,16.18811284,1.013698167,3.563780303,Europe & Central Asia,High income,Parliamentary,Left,19.5680832,0,1,0
+United Kingdom,GBR,2006,19.7,308000000,25.54411315,0.583146793,5.616818498,Europe & Central Asia,High income,Parliamentary,Left,19.54561034,0,1,0
+India,IND,2006,8.3,1488000000,11.12933705,0.570648335,9.478411784,South Asia,Lower middle income,Parliamentary,Left,21.12069877,0,1,0
+Namibia,NAM,2006,26.9,72000000,29.67155273,2.172807746,9.459747987,Sub-Saharan Africa,Upper middle income,Presidential,Left,18.09217668,0,1,0
+Norway,NOR,2006,37.9,555000000,28.90944752,0.648840846,3.604696805,Europe & Central Asia,High income,Parliamentary,Left,20.13447867,0,1,0
+New Zealand,NZL,2006,32.2,5000000,31.96581296,0.403589254,3.529273822,East Asia & Pacific,High income,Parliamentary,Left,15.42494847,0,1,0
+Sweden,SWE,2006,47.3,129000000,28.48367761,0.517879909,2.652579739,Europe & Central Asia,High income,Parliamentary,Left,18.67532296,0,1,0
+Argentina,ARG,2012,37.4,3000000,12.95284151,0.554125885,2.13148645,Latin America & Caribbean,Upper middle income,Presidential,Left,14.91412285,0,1,0
+Australia,AUS,2012,24.7,868000000,21.11709698,0.467666285,4.572221048,East Asia & Pacific,High income,Parliamentary,Left,20.58170227,0,1,0
+Belgium,BEL,2012,38,32000000,25.79275649,0.626234621,1.858378873,Europe & Central Asia,High income,Parliamentary,Left,17.28124646,0,1,0
+Brazil,BRA,2012,8.6,311000000,13.65145753,0.730302728,3.703275981,Latin America & Caribbean,Upper middle income,Presidential,Left,19.55530347,0,1,0
+Cyprus,CYP,2012,10.7,6000000,23.40029928,2.164355192,3.950042855,Europe & Central Asia,High income,Presidential,Left,15.60727003,0,1,0
+Denmark,DNK,2012,39.1,105000000,33.44639821,0.590693622,2.332529023,Europe & Central Asia,High income,Parliamentary,Left,18.46947091,0,1,0
+Greece,GRC,2012,21,29000000,23.91007616,2.926172092,4.563622665,Europe & Central Asia,High income,Parliamentary,Left,17.18280639,0,1,0
+India,IND,2012,11,4395000000,10.83677172,0.588781412,9.27261936,South Asia,Lower middle income,Parliamentary,Left,22.20373337,0,1,0
+Namibia,NAM,2012,24.4,57000000,32.93275144,1.892583439,9.036612722,Sub-Saharan Africa,Upper middle income,Presidential,Left,17.85856183,0,1,0
+Norway,NOR,2012,39.6,143000000,27.04506296,0.96595821,3.313851036,Europe & Central Asia,High income,Parliamentary,Left,18.77835519,0,1,0
+Peru,PER,2012,21.5,10000000,16.5466871,1.171326513,7.293350609,Latin America & Caribbean,Upper middle income,Presidential,Left,16.11809565,0,1,0
+United States,USA,2012,18,1196000000,9.797156757,0.942711447,11.43684582,North America,High income,Presidential,Left,20.90224849,0,1,0
+Argentina,ARG,2002,30.7,15000000,9.818958347,0.605773579,4.468973825,Latin America & Caribbean,Upper middle income,Presidential,Right,16.52356076,0,0,1
+Australia,AUS,2002,25.3,663000000,23.6166114,0.511827128,5.354593312,East Asia & Pacific,High income,Parliamentary,Right,20.31228555,0,0,1
+Belgium,BEL,2002,23.3,48000000,25.71234509,0.901064083,2.455663668,Europe & Central Asia,High income,Parliamentary,Right,17.68671157,0,0,1
+Brazil,BRA,2002,6.2,223000000,15.7200793,0.810564873,4.871607662,Latin America & Caribbean,Upper middle income,Presidential,Right,19.22268233,0,0,1
+Cyprus,CYP,2002,10.7,1000000,36.61750072,2.124339036,5.691788526,Europe & Central Asia,High income,Presidential,Right,13.81551056,0,0,1
+Denmark,DNK,2002,38,45000000,30.11718967,0.785316315,2.834105742,Europe & Central Asia,High income,Parliamentary,Right,17.62217305,0,0,1
+Spain,ESP,2002,28.3,277000000,14.99842573,1.31867885,3.771132382,Europe & Central Asia,High income,Parliamentary,Right,19.43952806,0,0,1
+India,IND,2002,8.8,2031000000,8.676273931,0.571594085,9.879551815,South Asia,Lower middle income,Parliamentary,Right,21.43179412,0,0,1
+Israel,ISR,2002,14.2,349000000,25.71347155,5.924564046,16.19178057,Middle East & North Africa,High income,Parliamentary,Right,19.67058248,0,0,1
+Italy,ITA,2002,9.8,239000000,21.60830045,1.986822278,3.646757003,Europe & Central Asia,High income,Parliamentary,Right,19.29197411,0,0,1
+Norway,NOR,2002,36.4,90000000,27.18833639,1.091022444,4.545830107,Europe & Central Asia,High income,Parliamentary,Right,18.31532023,0,0,1
+United States,USA,2002,13.8,499000000,9.861419855,0.98742008,9.837240984,North America,High income,Presidential,Right,20.02811665,0,0,1
+Australia,AUS,2006,24.7,727000000,24.5893841,0.472249027,5.264887018,East Asia & Pacific,High income,Parliamentary,Right,20.40443704,0,0,1
+Belgium,BEL,2006,34.7,27000000,25.28775048,0.863028713,2.16969628,Europe & Central Asia,High income,Parliamentary,Right,17.11134742,0,0,1
+Cyprus,CYP,2006,14.3,26000000,41.53925794,2.022238985,4.856230032,Europe & Central Asia,High income,Presidential,Right,17.0736071,0,0,1
+Germany,DEU,2006,31.6,409000000,10.85166955,0.591219141,2.838646349,Europe & Central Asia,High income,Parliamentary,Right,19.82922571,0,0,1
+Denmark,DNK,2006,36.9,83000000,31.86029116,1.023464283,2.764396981,Europe & Central Asia,High income,Parliamentary,Right,18.23435117,0,0,1
+France,FRA,2006,12.2,67000000,22.68494295,1.218120806,4.447093737,Europe & Central Asia,High income,Parliamentary,Right,18.02020318,0,0,1
+Greece,GRC,2006,13,721000000,19.97920072,3.179974928,6.169372889,Europe & Central Asia,High income,Parliamentary,Right,20.3961497,0,0,1
+Israel,ISR,2006,14.2,1122000000,26.0762675,5.834261559,17.4896524,Middle East & North Africa,High income,Parliamentary,Right,20.83837864,0,0,1
+Italy,ITA,2006,17.3,433000000,22.06401188,1.802061485,3.202802997,Europe & Central Asia,High income,Parliamentary,Right,19.88624829,0,0,1
+Netherlands,NLD,2006,36.7,317000000,21.60001095,0.5320204,3.306956179,Europe & Central Asia,High income,Parliamentary,Right,19.57441233,0,0,1
+United States,USA,2006,16.3,631000000,11.31127437,0.972878941,11.45008517,North America,High income,Presidential,Right,20.26281642,0,0,1
+Canada,CAN,2012,24.7,197000000,11.69256444,0.343091354,2.732734781,North America,High income,Parliamentary,Right,19.09871429,0,0,1
+Germany,DEU,2012,32.9,136000000,11.62579089,0.4463947,2.96027108,Europe & Central Asia,High income,Parliamentary,Right,18.72816544,0,0,1
+Spain,ESP,2012,36,224000000,12.34178289,0.914902678,2.934783087,Europe & Central Asia,High income,Parliamentary,Right,19.22715661,0,0,1
+Finland,FIN,2012,42.5,77000000,20.13559693,0.926483532,2.733077451,Europe & Central Asia,High income,Parliamentary,Right,18.15931598,0,0,1
+France,FRA,2012,26.9,91000000,22.68250157,1.083176728,3.91692514,Europe & Central Asia,High income,Parliamentary,Right,18.32637006,0,0,1
+United Kingdom,GBR,2012,22.5,578000000,24.85602875,0.519663894,5.051200172,Europe & Central Asia,High income,Parliamentary,Right,20.17508443,0,0,1
+Ireland,IRL,2012,15.1,2000000,22.53824716,0.416835147,1.223849372,Europe & Central Asia,High income,Parliamentary,Right,14.50865774,0,0,1
+Israel,ISR,2012,20,120000000,22.14301751,5.065342924,14.98254682,Middle East & North Africa,High income,Parliamentary,Right,18.6030023,0,0,1
+Italy,ITA,2012,21.4,219000000,23.47037018,1.441429449,2.828918992,Europe & Central Asia,High income,Parliamentary,Right,19.20458229,0,0,1
+"Korea, Rep.",KOR,2012,15.7,1078000000,14.7179218,2.531218619,12.70843411,East Asia & Pacific,High income,Presidential,Right,20.79837331,0,0,1
+Netherlands,NLD,2012,38.7,363000000,19.40774864,0.483171569,2.689031931,Europe & Central Asia,High income,Parliamentary,Right,19.70991339,0,0,1
+New Zealand,NZL,2012,32.2,30000000,26.82136875,0.361930499,3.012079771,East Asia & Pacific,High income,Parliamentary,Right,17.21670794,0,0,1
+Sweden,SWE,2012,44.7,207000000,25.74504915,0.319759509,2.28349177,Europe & Central Asia,High income,Parliamentary,Right,19.14822935,0,0,1
