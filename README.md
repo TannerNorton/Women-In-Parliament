@@ -1,1 +1,4 @@
 # Women-In-Parliament
+
+## Purpose 
+With modern times has come many successful social movements worldwide advocating for women’s rights.  Much research has been done on how increased women’s rights have impacted economies across the globe.  This repository contains my work as I sought to answer the question “Do countries with higher percentages of women serving in parliament have lower military expenditures as a percentage of total government expenditure?”.  This analysis includes several regression models that look through time from 2000-2012 at data from 85 nations.  Evidence was found that increased participation by women in parliaments around the world does decrease military expenditures as a percentage of total government spending. This repository also contains the literature that was examined from previous research. 
